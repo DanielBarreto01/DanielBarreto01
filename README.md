@@ -1,6 +1,7 @@
-<div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <br><br>
+<div align="center">
+  <img src="https://o.remove.bg/downloads/f9a0c2d8-6c67-4ed4-ab10-5c9ef7305c1e/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387-removebg-preview.png" alt="Texto alternativo" width="300">
+</div>
+
 <h1 align="center">Hello 👋, I'm Daniel Barreto</h1><h3 align="justify">
 I am a Systems and Computer Engineering student and Computer Engineering at the Universidad Pedagogical and Technological University of Colombia. I am a proactive, organized and committed committed to my personal and professional my personal and professional development. I am looking for opportunity to apply my knowledge and knowledge and skills in a challenging challenging and dynamic work environment dynamic work environment in which I can learn and grow grow together with a team of team of professionals.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbarreto01&label=Profile%20views&color=0e75b6&style=flat" alt="danielbarreto01" /> </p>
 
