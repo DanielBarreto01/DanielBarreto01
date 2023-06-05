@@ -1,9 +1,12 @@
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <br><br>
 <h1 align="center">Hello 👋, I'm Daniel Barreto</h1><h3 align="justify">
 I am a Systems and Computer Engineering student and Computer Engineering at the Universidad Pedagogical and Technological University of Colombia. I am a proactive, organized and committed committed to my personal and professional my personal and professional development. I am looking for opportunity to apply my knowledge and knowledge and skills in a challenging challenging and dynamic work environment dynamic work environment in which I can learn and grow grow together with a team of team of professionals.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbarreto01&label=Profile%20views&color=0e75b6&style=flat" alt="danielbarreto01" /> </p>
 
 
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h3 align="left">Connect with me::</h3><p align="left">
 <a href="https://linkedin.com/in/daniel barreto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Barreto" height="30" width="40" /></a>
 
 <a href="https://instagram.com/barreto.daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barreto.daniel" height="30" width="40" /></a></p>
