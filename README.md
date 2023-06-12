@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://o.remove.bg/downloads/f9a0c2d8-6c67-4ed4-ab10-5c9ef7305c1e/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387-removebg-preview.png" alt="Texto alternativo" width="300">
+  <img src="https://o.remove.bg/downloads/2ca6e479-ba8a-403e-98f5-80366ab9006d/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971-removebg-preview.png" alt="Texto alternativo" width="300">
 </div>
 
 <h1 align="center">Hello 👋, I'm Daniel Barreto</h1><h3 align="justify">
