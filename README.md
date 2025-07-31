@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://wallpapers.com/images/featured-full/halo-forerunner-0n9jurpwn7rf64ms.jpg" alt="Texto alternativo" width="300">
-</div>
+
 
 <h1 align="center">Hello 👋, I'm Daniel Barreto</h1><h3 align="justify">
 </h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbarreto01&label=Profile%20views&color=0e75b6&style=flat" alt="danielbarreto01" /> </p>
